@@ -1,2 +1,6 @@
 print("Hello Brotha")
 print("This is line2")
+print("Hello Brotha")
+print("This is line2")
+print("Hello Brotha")
+print("This is line2")
